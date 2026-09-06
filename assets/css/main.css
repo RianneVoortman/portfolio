@@ -4687,3 +4687,10 @@ input, select, textarea {
 		}
 
 	}
+
+/* Make navigation visible on all pages */
+#nav {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
