@@ -4694,3 +4694,12 @@ input, select, textarea {
     visibility: visible !important;
     opacity: 1 !important;
 }
+
+#intro {
+    position: relative;
+}
+
+#intro .inner {
+    position: sticky;
+    top: 2rem;
+}
